@@ -1,6 +1,6 @@
 # MuchRailsPubSub
 
-TODO: Write a gem description
+A Pub/Sub API/framework for MuchRails using ActiveJob.
 
 ## Usage
 
